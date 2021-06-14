@@ -8,3 +8,5 @@
 ![css](https://user-images.githubusercontent.com/54549934/93969089-b1e25080-fd88-11ea-8ff6-16d721c451e1.png)
 ![bootstrap](https://user-images.githubusercontent.com/54549934/93969110-be66a900-fd88-11ea-8d93-731a49dda9cf.png)
 ![js](https://user-images.githubusercontent.com/54549934/93969585-d7238e80-fd89-11ea-9f99-be41b751c27e.png)
+![solidity-logo-vector](https://user-images.githubusercontent.com/28089953/121951758-00df7400-cd64-11eb-9f6b-1eca80858bea.png)
+
